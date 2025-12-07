@@ -1,0 +1,3 @@
+[submodule "recipe-project-1"]
+	path = recipe-project-1
+	url = https://github.com/mohamedsammy187/recipe-project-1.git
