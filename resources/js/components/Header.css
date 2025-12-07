@@ -1,0 +1,26 @@
+.app-header {
+  background-color: #f8f9fa;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.app-header ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  padding: 10px 20px;
+  margin: 0;
+  justify-content: center;
+}
+
+.app-header ul li {
+  font-size: 18px;
+  color: #333;
+}
+
+.app-header ul li span {
+  color: rgb(85, 202, 163);
+}
+
+.active {
+  text-decoration: underline;
+}
