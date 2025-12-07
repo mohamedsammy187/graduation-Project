@@ -5,6 +5,8 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>graduation-recipe-project</title>
+    <h1>Laravel Backend Running</h1>
+    <p>This backend is for API only.</p>
 </head>
 
 <body>
